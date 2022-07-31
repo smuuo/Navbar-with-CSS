@@ -1,2 +1,2 @@
 # Navbar-with-CSS
-There are three fifferent navbars each with different styling
+There are three different navbars each with different styling
